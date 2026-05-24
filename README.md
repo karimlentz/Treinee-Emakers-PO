@@ -43,4 +43,4 @@ A concepção deste projeto seguiu rigorosas práticas:
 * **Karim Soares Lentz** - Product Owner / Scrum Master
 * **Jorginho** - Desenvolvedor Front-end
 * **Dorotéia** - Desenvolvedora Back-end
-* **Mariazinha** - Desenvolvedora Back-end
+* **Mariazinha** - Designer UI/UX
