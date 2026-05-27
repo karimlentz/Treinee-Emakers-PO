@@ -17,9 +17,10 @@ O objetivo central do software é digitalizar e otimizar a correção interativa
 
 ## Principais Funcionalidades
 
+* **Bancas e Temas:** Seleção com opções de bancas e temas de redação com textos de apoio.
+* **Upload:** Envio de imagem do texto de redação para correção, com validação de formato.
 * **Sistema de Créditos:** Monetização através da compra de pacotes de correção com atualização de saldo.
-* **Upload:** Validação de formatos (aceitando estritamente arquivos de imagem).
-* **Correção Visual Interativa:** Inserção de marcadores (pontos vermelhos) na imagem da redação com balões de feedback pedagógico.
+* **Correção Visual Interativa:** Inserção de marcadores (pontos vermelhos) na imagem da redação com balões de feedback pedagógico e notas por competência da banca escolhida.
 * **Auto-save (Rascunho):** Salvamento automático do progresso do corretor para evitar perda de dados.
 * **Notificações:** Disparo de e-mail automático para o aluno assim que a correção é finalizada.
 * **Dashboards Gerenciais:** Visão completa de métricas de envio e histórico de faturamento para o Administrador.
@@ -34,7 +35,7 @@ A concepção deste projeto seguiu rigorosas práticas:
 * **Histórias de Usuário:** Funcionalidades descritas sob a ótica do usuário final, contendo Critérios de Aceite e Regras de Negócio bem definidas.
 * **Diagramas UML:** Mapeamento visual das interações através de Diagramas de Casos de Uso e Fluxogramas das regras de negócio
 
-**Nota:** O *Documento de Requisitos* completo, contendo todas as Histórias de Usuário, Protótipos de Tela e Fluxogramas Técnicos, encontra-se anexado nos arquivos deste repositório.
+**Nota:** O *Documento de Requisitos* completo, contendo todas os Requisitos Funcionais, Protótipos de Tela e Fluxogramas Técnicos, encontra-se anexado nos arquivos deste repositório.
 
 ---
 
